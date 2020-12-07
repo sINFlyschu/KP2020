@@ -1,6 +1,6 @@
 package client
 
-import mailSender "github.com/sINFlyschu/KP2020/exercise10/mail/mail"
+import mailSender "github.com/sINFlyschu/KP2020/exercise10/mail"
 
 func main() {
 	mailSender := mailSender.SenderImpl{}
