@@ -1,5 +1,4 @@
 package mail
-import "github.com/sirupsen/logrus"
 
 type Message struct {
 	To string
