@@ -1,4 +1,4 @@
-module github.com/sINFlyschu/KP2020/exercise10/mail/mail
+module github.com/sINFlyschu/KP2020/exercise10/mail/V2
 
 go 1.15
 
